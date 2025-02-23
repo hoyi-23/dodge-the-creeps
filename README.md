@@ -3,9 +3,11 @@ A 2D game made with Godot
 
 ## To Do
 
-- [] Record the highest score and show in HUD
-- [] Enable 2P
-- [] Enable Player skin change
+- [ ] Record the highest score and show in HUD
+- [ ] Enable 2P
+- [ ] Enable Player skin change
+- [ ] Mercury
+
 
 ## Changelogs
 
